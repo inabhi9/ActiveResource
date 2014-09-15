@@ -7,4 +7,5 @@
 /**
  * A custom Exception for ActiveResource
  */
-class EActiveResourceException extends CException{}
+class EActiveResourceException extends CException {
+}

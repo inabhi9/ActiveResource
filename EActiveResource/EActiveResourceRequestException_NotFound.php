@@ -7,6 +7,7 @@
 /**
  * Error 404
  */
-class EActiveResourceRequestException_NotFound extends EActiveResourceRequestException{}
+class EActiveResourceRequestException_NotFound extends EActiveResourceRequestException {
+}
 
 ?>

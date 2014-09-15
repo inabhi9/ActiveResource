@@ -7,6 +7,7 @@
 /**
  * Error 405
  */
-class EActiveResourceRequestException_MethodNotAllowed extends EActiveResourceRequestException{}
+class EActiveResourceRequestException_MethodNotAllowed extends EActiveResourceRequestException {
+}
 
 ?>

@@ -1,3 +1,6 @@
 <?php
-class EActiveResourceRequestException_Curl extends CException {}
+
+class EActiveResourceRequestException_Curl extends CException {
+}
+
 ?>

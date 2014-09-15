@@ -7,6 +7,7 @@
 /**
  * Error 402
  */
-class EActiveResourceRequestException_Forbidden extends EActiveResourceRequestException{}
+class EActiveResourceRequestException_Forbidden extends EActiveResourceRequestException {
+}
 
 ?>

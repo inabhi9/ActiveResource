@@ -7,6 +7,7 @@
 /**
  * Error 408
  */
-class EActiveResourceRequestException_Timeout extends EActiveResourceRequestException{}
+class EActiveResourceRequestException_Timeout extends EActiveResourceRequestException {
+}
 
 ?>
